@@ -122,3 +122,7 @@ $RECYCLE.BIN/
 
 # KDE directory preferences
 .directory
+*.suo
+*.config
+AIND-Recognizer-master.pyproj
+*.sln
