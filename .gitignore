@@ -126,3 +126,5 @@ $RECYCLE.BIN/
 *.config
 AIND-Recognizer-master.pyproj
 *.sln
+AIND-Recognizer.zip
+*.html
